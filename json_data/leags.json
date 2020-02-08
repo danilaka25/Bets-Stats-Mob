@@ -1,0 +1,13 @@
+{
+    "league":{
+    "id":524,
+    "name":"Premier League",
+    "country":"England",
+    "logo":"https://media.api-football.com/leagues/2.png",
+    "flag":"https://media.api-football.com/flags/gb.svg",
+    "season":2019,
+    "round":"Regular Season - 23"
+    }
+}
+
+
